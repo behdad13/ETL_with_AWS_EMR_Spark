@@ -31,3 +31,12 @@ export SRC_FILE_PATTERN=2023-01-01
 ```
 spark-submit --master yarn --py-files ghactivity_spark.zip app.py
 ```
+
+
+landing directory
+<img width="799" alt="image" src="https://github.com/behdad13/ETL_with_AWS_EMR_Spark/assets/58978680/01b4991e-9692-4db3-83de-725c22820fc2">
+
+
+raw directory
+<img width="799" alt="image" src="https://github.com/behdad13/ETL_with_AWS_EMR_Spark/assets/58978680/67b4013b-f3d6-40e5-8198-328b60b9214f">
+
